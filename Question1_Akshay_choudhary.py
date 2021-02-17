@@ -1,6 +1,5 @@
 #Python code for question 1
 #string = "BOOKKEEPER"
-#Uncomment first line to check for given test case.
 string = input("enter a string:")
 new={}
 
